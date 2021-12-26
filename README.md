@@ -1,6 +1,6 @@
 # Graduation_Thesis
 
-**All the figures and code created by myself, Plz respect:smiley_cat:. **
+**All the figures and code are created by myself, Plz respect** :smiley_cat:.
 
 This is a repository for my Graduation Thesis, which just log my ideas and some fragmented code. 
 I will upload the full paper and code after my graduation.
