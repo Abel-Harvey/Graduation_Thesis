@@ -11,4 +11,5 @@ aim to *Design and improvement of a Novel Relational Triple Extraction model*
 - use an independent module to produce potential relations(less redundant s,r,o co-pair)
 - use BERT and multi-label to achieve the *PR* prediction
 - I draw a figure for the idea:
-  <img src="https://github.com/Abel-Harvey/Graduation_Thesis/blob/main/figures/Novel_RTE_idea_1.svg" alt="Novel_RTE_idea_1" width='100px'/>
+
+<img src="https://github.com/Abel-Harvey/Graduation_Thesis/blob/main/figures/Novel_RTE_idea_1.svg" alt="Novel_RTE_idea_1" width='400px'/>
