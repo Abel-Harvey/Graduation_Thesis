@@ -14,4 +14,4 @@ aim to *Design and improvement of a Novel Relational Triple Extraction model*
 
 - I draw a figure for the idea:
 
-  ![fig1](../Graduation_Thesis/figures/Novel_RTE_idea_1.svg)
+  ![fig1](https://github.com/Abel-Harvey/Graduation_Thesis/blob/main/figures/Novel_RTE_idea_1.svg)
