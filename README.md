@@ -12,4 +12,4 @@ aim to *Design and improvement of a Novel Relational Triple Extraction model*
 - use BERT and multi-label to achieve the *PR* prediction
 - I draw a figure for the idea:
 
-<div align=center><img src="https://github.com/Abel-Harvey/Graduation_Thesis/blob/main/figures/Novel_RTE_idea_1.svg" alt="Novel_RTE_idea_1" width='500px'/></div>
+<div align=center><img src="https://github.com/Abel-Harvey/Graduation_Thesis/blob/main/figures/Novel_RTE_idea_1.png" alt="Novel_RTE_idea_1" width='500px'/></div>
